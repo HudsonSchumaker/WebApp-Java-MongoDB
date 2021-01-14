@@ -1,4 +1,4 @@
-package br.com.schumaker.escola.repositorys;
+package br.com.schumaker.escola.repositories;
 
 import java.util.ArrayList;
 import java.util.List;
